@@ -1,5 +1,7 @@
 package com.kenzie.greedy.backpacking;
 
+
+
 /**
  * Class that describes a Snack.
  */
